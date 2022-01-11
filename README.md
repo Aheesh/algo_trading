@@ -57,3 +57,18 @@ SVM model underperforms compared to actual returns 2019 to mid 2020. But post mi
 
 
 The LR algorithm underperforms by a large margin in comparison to Actual Returns from 2018-mid to 2020. Post 2nd Qtr of 2020 onwards it manages to be slightly better performing than Actual Returns. 
+
+# Evaluate A New Machine Learning Classifier
+
+## Using Logistic Regression
+
+<img src="./Resources/11. LR results.png"
+     alt="LR Model"
+     style="float: left; margin-right: 10px;" />
+     
+     The LR algorithm was a mixed bag, while underpeforming in 2018 it did better by a small degree in 2019. It massively out performed in 2020 and early-mid 2021 but 2nd half of 2021 it dropped and delivered worse then actual returns.
+     
+     
+# Evaluation Report
+
+The final conclusion based on above observations points to SVM model with 4 and 100 day SMA being a consistent out performer to actual results, and is the best out of the other model combinations tried out.
