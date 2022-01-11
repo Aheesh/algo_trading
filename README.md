@@ -66,7 +66,7 @@ The LR algorithm underperforms by a large margin in comparison to Actual Returns
      alt="LR Model"
      style="float: left; margin-right: 10px;" />
      
-     The LR algorithm was a mixed bag, while underpeforming in 2018 it did better by a small degree in 2019. It massively out performed in 2020 and early-mid 2021 but 2nd half of 2021 it dropped and delivered worse then actual returns.
+The LR algorithm was a mixed bag, while underpeforming in 2018 it did better by a small degree in 2019. It massively out performed in 2020 and early-mid 2021 but 2nd half of 2021 it dropped and delivered worse then actual returns.
      
      
 # Evaluation Report
