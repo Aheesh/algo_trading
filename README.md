@@ -1,4 +1,4 @@
-# algo_trading
+# Algorithm Trading
 
 <img src="./Resources/1. Baseline model.png"
      alt="Baseline Model"
